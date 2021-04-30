@@ -1,0 +1,3 @@
+Belajar Git di Ngilmu bareng
+- belajar git
+- belajar github
