@@ -2,3 +2,4 @@ Belajar Git di Ngilmu bareng
 
 - belajar github
 - demo di github
+- demo di local computer
